@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hey, I'm Tommy! 👋
 
-<!--
-**tommycroot/tommycroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Software Engineer** based in Essex (near London) 🇬🇧.
 
-Here are some ideas to get you started:
+## 💻 My skills: 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-End:
+
+- React.js
+- JavaScript
+- HTML
+- CSS
+- SASS
+- BootStrap
+
+Back-End:
+
+- Node.js
+- Express.js
+- Mongoose
+- Python
+- Django
+- MongoDB
+- PostgreSQL
+
+Please feel free to check out my work here, or visit [my portfolio](https://thomascroot.com). You can also find me on [LinkedIn](https://www.linkedin.com/in/thomas-croot) - come and say hi!
+
+## 🌱 Currently learning: 🌱
+
+- Adding more functionality to [Encore](https://encore-app.com) - a social media platform tailored specifically for concert goers. Encore aims to be a vibrant hub where users can effortlessly log their concert experiences and connect with fellow music enthusiasts in a lively, interactive environment.
+- Exploring React and NestJS: A Practical Guide with Docker course on Udemy - diving into Docker, NestJS, TypeORM, React with TypeScript, Redux, and more!
+- Enrolled in AWS training to deepen my understanding of cloud computing, focusing on AWS services, architecture, and best practices.
+- Next.js
