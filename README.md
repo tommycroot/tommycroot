@@ -6,6 +6,7 @@ I'm a **Full Stack Software Engineer** based in Essex (near London) 🇬🇧.
 
 Front-End:
 
+- TypeScript
 - React.js
 - JavaScript
 - HTML
@@ -15,19 +16,22 @@ Front-End:
 
 Back-End:
 
+- NestJS
 - Node.js
-- Express.js
-- Mongoose
 - Python
 - Django
+- Express.js
+- Mongoose
 - MongoDB
 - PostgreSQL
-
+- MySQL
+- Docker
+- TypeORM
+  
 Please feel free to check out my work here, or visit [my portfolio](https://thomascroot.com). You can also find me on [LinkedIn](https://www.linkedin.com/in/thomas-croot) - come and say hi!
 
 ## 🌱 Currently learning: 🌱
 
 - Adding more functionality to [Encore](https://encore-app.com) - a social media platform tailored specifically for concert goers. Encore aims to be a vibrant hub where users can effortlessly log their concert experiences and connect with fellow music enthusiasts in a lively, interactive environment.
-- Exploring React and NestJS: A Practical Guide with Docker course on Udemy - diving into Docker, NestJS, TypeORM, React with TypeScript, Redux, and more!
 - Enrolled in AWS training to deepen my understanding of cloud computing, focusing on AWS services, architecture, and best practices.
 - Next.js
