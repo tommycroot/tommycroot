@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C+I'm+Tommy!)](https://git.io/typing-svg)👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C+I'm+Tommy!)](https://git.io/typing-svg)
 
 I'm a **Full Stack Software Engineer** based in Essex (near London) 🇬🇧.
 
